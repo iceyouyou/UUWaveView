@@ -1,4 +1,6 @@
 # UUWaveView
+[![Build Status](https://travis-ci.org/iceyouyou/UUWaveView.svg?branch=master)](https://travis-ci.org/iceyouyou/UUWaveView)
+
 用于iOS，创建带有波形效果的UI控件，可自定义波形线条的数量、颜色、振幅、传播速度等各种参数。
 
 ## Demo
